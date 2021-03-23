@@ -1,0 +1,19 @@
+Abbreviations used in this documentation
+
+Breaking = the book Breaking the HEC-RAS Code, see reference sources document for further informations
+VS Code = Visual Studio Code
+Ras = HEC-RAS (by default 5.0.7)
+XS = Cross section
+Dev Doc = Development Documentation (Computing / for Developpers)
+IMTLD = Institut Mines Télécom Lille Douai (French public engineering school, created by the merger of Mines Douai and Télécom Lille)
+WSE / WSEL = Water Stage Elevation
+CI = (FR : Condition Initiale) initial condition
+CL = (FR : Condition Limite) boundary condition
+Msg = message
+Interface Doc = MATLAB HEC-RAS interface documentation
+i.e. = namely
+v.s. = versus = against / compared with
+OK = in accordance with, accepted
+NOK = not in accordance with, refused
+MAJ = (FR : Mise à jour) Update
+GUI = Graphical User Interface

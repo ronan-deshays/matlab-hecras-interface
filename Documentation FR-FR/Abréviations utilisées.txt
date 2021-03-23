@@ -1,0 +1,18 @@
+Abréviations utilisées dans cette documentation
+
+Breaking = le livre Breaking the HEC-RAS code
+VS Code = Visual Studio Code
+Ras = HEC-RAS (5.0.7 par défaut)
+XS = Cross section, ligne fictive de calcul / mesure qui coupe le canal dans sa largeur
+Dev doc = documentation pour les développeurs
+IMTLD = Institut Mines Télécom Lille Douai (école publique d’ingénieurs, issue de la fusion des Mines de Douai et de Télécom Lille)
+WSE / WSEL = Water Stage Elevation = hauteur / niveau d’eau
+CI = condition initiale
+CL = condition limite
+Msg = message
+Interface Doc = Documentation de l’interface MATLAB HEC-RAS
+i.e. = c’est-à-dire
+v.s. = versus = contre / comparé à
+OK = accepté, conforme
+NOK = refusé, non conforme
+MAJ = Mise à jour
